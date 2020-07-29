@@ -1,4 +1,4 @@
-# swim_flutter_application
+# swim_flutter_application Melissa, Aline and Edith
 
 A new Flutter application.
 
