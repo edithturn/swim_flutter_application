@@ -1,6 +1,6 @@
 # swim_flutter_application Melissa, Aline and Edith
 
-A new Flutter application.
+A new Flutter application Aline
 
 ## Getting Started
 
